@@ -10,24 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - type: TextSection
-    title: Portfolio
-    subtitle: Carl-Wilhelm
-    text: ''
-    colors: colors-f
-    variant: variant-a
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        textAlign: center
-        borderStyle: solid
   - type: CtaSection
     title: Portfolio
     text: |
