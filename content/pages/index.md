@@ -100,6 +100,7 @@ sections:
           - pr-4
         textAlign: center
         borderWidth: 2
+        borderRadius: small
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
