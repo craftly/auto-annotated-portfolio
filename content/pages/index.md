@@ -102,7 +102,7 @@ sections:
         padding:
           - pt-12
           - pb-12
-          - pl-12
+          - pl-32
           - pr-28
         textAlign: center
         borderWidth: 2
