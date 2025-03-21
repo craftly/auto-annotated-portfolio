@@ -29,7 +29,7 @@ sections:
         textAlign: center
         borderStyle: solid
   - type: CtaSection
-    title: Let's do this
+    title: ''
     text: ''
     actions:
       - type: Button
