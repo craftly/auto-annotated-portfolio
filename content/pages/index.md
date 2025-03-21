@@ -14,7 +14,7 @@ sections:
     title: Portfolio
     subtitle: Carl-Wilhelm
     text: ''
-    colors: colors-f
+    colors: colors-d
     variant: variant-a
     elementId: ''
     styles:
