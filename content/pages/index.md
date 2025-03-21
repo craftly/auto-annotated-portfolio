@@ -10,29 +10,24 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
+  - type: TextSection
+    title: Portfolio
+    subtitle: Carl-Wilhelm
+    text: ''
     colors: colors-f
-    backgroundSize: full
-    title: pORTFOLIO
-    subtitle: ''
+    variant: variant-a
+    elementId: ''
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
-          - pt-36
-          - pb-48
+          - pt-28
+          - pb-28
           - pl-4
           - pr-4
-        flexDirection: row-reverse
-        textAlign: left
-    type: HeroSection
-    actions: []
+        textAlign: center
+        borderStyle: solid
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -46,8 +41,6 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
     styles:
       self:
@@ -60,6 +53,58 @@ sections:
           - pr-4
         textAlign: left
     subtitle: Projects
+  - type: MediaGallerySection
+    title: Gallery
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/gallery-1.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-2.jpg
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-3.jpg
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-4.jpg
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-f
+    spacing: 58
+    columns: 4
+    aspectRatio: '1:1'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-12
+          - pr-12
+        textAlign: center
+        borderWidth: 0
+        borderRadius: none
+        margin:
+          - mr-10
+          - ml-10
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
