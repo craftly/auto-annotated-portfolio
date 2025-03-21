@@ -27,6 +27,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
+        borderStyle: solid
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
