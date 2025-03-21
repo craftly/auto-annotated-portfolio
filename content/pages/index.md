@@ -33,7 +33,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Try it now
+        label: Programming
         altText: ''
         url: /
         showIcon: true
