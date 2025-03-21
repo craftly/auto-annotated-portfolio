@@ -13,8 +13,7 @@ sections:
   - type: TextSection
     title: Portfolio
     subtitle: Carl-Wilhelm
-    text: |
-      .
+    text: ''
     colors: colors-f
     variant: variant-a
     elementId: ''
