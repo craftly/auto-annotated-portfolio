@@ -42,7 +42,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Art
         altText: ''
         url: /
         showIcon: false
