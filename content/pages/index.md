@@ -27,7 +27,7 @@ sections:
       - type: Button
         label: Art
         altText: ''
-        url: /
+        url: /Art
         showIcon: false
         icon: arrowRight
         iconPosition: right
