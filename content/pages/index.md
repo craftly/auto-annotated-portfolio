@@ -92,7 +92,7 @@ sections:
     spacing: 58
     columns: 4
     aspectRatio: '1:1'
-    showCaption: false
+    showCaption: true
     enableHover: false
     elementId: ''
     styles:
