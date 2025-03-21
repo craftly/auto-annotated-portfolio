@@ -108,7 +108,7 @@ sections:
         borderWidth: 0
         borderRadius: none
         margin:
-          - mr-12
+          - mr-10
           - ml-10
   - type: ContactSection
     colors: colors-f
