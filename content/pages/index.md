@@ -104,7 +104,7 @@ sections:
           - pb-12
           - pl-4
           - pr-4
-        textAlign: right
+        textAlign: center
         borderWidth: 2
         borderRadius: none
   - type: ContactSection
