@@ -99,6 +99,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
+        borderWidth: 2
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
