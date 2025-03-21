@@ -73,7 +73,7 @@ sections:
           - pb-28
           - pl-4
           - pr-4
-        flexDirection: row
+        flexDirection: col
         textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
