@@ -98,7 +98,7 @@ sections:
     styles:
       self:
         height: screen
-        width: narrow
+        width: full
         padding:
           - pt-12
           - pb-12
