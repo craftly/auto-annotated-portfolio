@@ -107,6 +107,8 @@ sections:
         textAlign: center
         borderWidth: 0
         borderRadius: none
+        margin:
+          - mr-12
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
