@@ -50,15 +50,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-      - type: Button
-        label: Learn more
-        altText: Animations
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
     colors: colors-c
     backgroundSize: full
     elementId: ''
