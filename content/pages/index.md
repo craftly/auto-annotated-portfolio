@@ -29,7 +29,7 @@ sections:
         textAlign: center
         borderStyle: solid
   - type: CtaSection
-    title: ''
+    title: Portfolio
     text: ''
     actions:
       - type: Button
