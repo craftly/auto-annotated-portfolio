@@ -10,101 +10,43 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - type: TextSection
+  - type: CtaSection
     title: Portfolio
-    subtitle: Carl-Wilhelm
-    text: ''
+    text: |
+      Carl-Wilhelm Brown
+    actions:
+      - type: Button
+        label: Programming
+        altText: ''
+        url: /Programming
+        showIcon: true
+        icon: ''
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Art
+        altText: ''
+        url: /Art
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-f
-    variant: variant-a
+    backgroundSize: inset
     elementId: ''
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
           - pt-28
           - pb-28
           - pl-4
           - pr-4
+        flexDirection: col
         textAlign: center
-        borderStyle: solid
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        textAlign: left
-    subtitle: Projects
-  - type: MediaGallerySection
-    title: Gallery
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/gallery-1.jpg
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-2.jpg
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-3.jpg
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-4.jpg
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
-    colors: colors-f
-    spacing: 58
-    columns: 4
-    aspectRatio: '1:1'
-    showCaption: false
-    enableHover: true
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-12
-          - pb-12
-          - pl-12
-          - pr-12
-        textAlign: center
-        borderWidth: 0
-        borderRadius: none
-        margin:
-          - mr-10
-          - ml-10
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
