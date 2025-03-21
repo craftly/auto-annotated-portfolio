@@ -52,7 +52,7 @@ sections:
         elementId: ''
       - type: Button
         label: Learn more
-        altText: ''
+        altText: Animations
         url: /
         showIcon: false
         icon: arrowRight
