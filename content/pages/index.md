@@ -30,7 +30,8 @@ sections:
         borderStyle: solid
   - type: CtaSection
     title: Portfolio
-    text: ''
+    text: |
+      Carl-Wilhelm Brown
     actions:
       - type: Button
         label: Programming
