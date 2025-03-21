@@ -26,7 +26,7 @@ sections:
           - pb-28
           - pl-4
           - pr-4
-        textAlign: left
+        textAlign: center
         borderStyle: solid
   - colors: colors-f
     type: FeaturedProjectsSection
