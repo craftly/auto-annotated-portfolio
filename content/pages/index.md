@@ -103,7 +103,7 @@ sections:
           - pt-12
           - pb-12
           - pl-12
-          - pr-12
+          - pr-28
         textAlign: center
         borderWidth: 2
         borderRadius: none
