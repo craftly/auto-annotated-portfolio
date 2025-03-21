@@ -105,7 +105,7 @@ sections:
           - pl-32
           - pr-28
         textAlign: center
-        borderWidth: 8
+        borderWidth: 0
         borderRadius: none
   - type: ContactSection
     colors: colors-f
