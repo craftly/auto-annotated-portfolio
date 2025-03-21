@@ -18,7 +18,7 @@ sections:
       - type: Button
         label: Programming
         altText: ''
-        url: /
+        url: /Programming
         showIcon: true
         icon: ''
         iconPosition: right
