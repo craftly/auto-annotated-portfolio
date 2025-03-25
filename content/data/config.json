@@ -5,15 +5,9 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
-        "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
-            }
-        ],
+        "title": "Home",
+        "isTitleVisible": false,
+        "primaryLinks": [],
         "socialLinks": [],
         "styles": {
             "self": {
