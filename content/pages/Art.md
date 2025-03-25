@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Empty page
+title: Art
 sections:
   - type: TextSection
     title: This in an empty page
