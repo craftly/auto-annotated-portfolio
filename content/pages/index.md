@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: DividerSection
     title: Divider
-    elementId: ''
+    elementId: Video
     styles:
       self:
         width: narrow
