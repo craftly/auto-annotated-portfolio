@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Empty page
+title: Art
 sections:
   - type: TextSection
     title: This in an empty page
@@ -23,11 +23,4 @@ sections:
         textAlign: left
 addTitleSuffix: true
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 80
 ---
