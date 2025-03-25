@@ -19,7 +19,7 @@
             "url": "/images/logo1.svg",
             "altText": "altText of the image",
             "caption": "Caption of the image",
-            "elementId": "h2"
+            "elementId": ""
         }
     }
 }
